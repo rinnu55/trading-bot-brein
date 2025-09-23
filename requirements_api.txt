@@ -1,0 +1,11 @@
+# requirements_api.txt
+flask
+gunicorn
+stable-baselines3[extra]
+torch
+hmmlearn
+scikit-learn
+pandas
+numpy
+joblib
+requests
